@@ -1,4 +1,4 @@
-# Frontend Mentor - Calculator app solution
+# g
 
 This is a solution to the [Calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Sig-giovanni/Frontend-Mentor---Calculator-app-solution)
+- Live Site URL: [Live site URL](https://sig-giovanni.github.io/Frontend-Mentor---Calculator-app-solution/)
 
 ## My process
 
@@ -52,8 +52,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Kingsley Abraham](https://www.instagram.com/sig_giovanni)
+- Frontend Mentor - [Sig-giovanni](https://www.frontendmentor.io/profile/Sig-giovanni)
 
 
